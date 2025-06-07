@@ -1,0 +1,8 @@
+Ticket Information:
+Row: D
+Seat: 4
+Price: $100.0
+Passenger Information:
+Name: sd
+Surname: sdsd
+Email: sdsd

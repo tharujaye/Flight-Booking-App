@@ -1,0 +1,8 @@
+Ticket Information:
+Row: A
+Seat: 6
+Price: $200.0
+Passenger Information:
+Name: Tharusha
+Surname: Jayawardena
+Email: lowkey@gmail.com

@@ -1,0 +1,8 @@
+Ticket Information:
+Row: D
+Seat: 5
+Price: $100.0
+Passenger Information:
+Name: Wew
+Surname: Ewewe
+Email: wewew

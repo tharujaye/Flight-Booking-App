@@ -1,0 +1,8 @@
+Ticket Information:
+Row: B
+Seat: 10
+Price: $150.0
+Passenger Information:
+Name: Himasha
+Surname: Ranasinghe
+Email: spiderman@gmail.com
